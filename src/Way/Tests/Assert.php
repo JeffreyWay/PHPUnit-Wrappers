@@ -1,4 +1,4 @@
-<?php namespace Tests;
+<?php namespace Way\Tests;
 
 require_once 'TestFacade.php';
 
