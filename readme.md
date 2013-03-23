@@ -30,7 +30,7 @@ Additionally, you can register your own aliases.
 
 ```php
 Should::getInstance()->registerAliases([
-	'beCakesAndPies' => 'assertTrue'
+	'beCakesAndPies' => 'assertFalse'
 ]);
 
 # or
